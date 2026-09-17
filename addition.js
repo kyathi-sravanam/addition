@@ -2,4 +2,4 @@ function add(a, b) {
     return a + b;
 }
 
-console.log(add(100, 20));
+console.log("Result:", add(50, 70));
